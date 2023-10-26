@@ -1,37 +1,24 @@
-# Abenezer Alemayehu
-### High School Student | Tech Enthusiast
+<h1 align="center">Hi 👋, I'm Abenezer</h1>
+<h3 align="center">A High School Student | Tech Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
-Hello, I'm Abenezer Alemayehu, high school student with a genuine passion for programming, and I'm on a journey to master the art of Computer development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abnzralm" alt="abnzralm" /></a> </p>
 
-## About Me
-- 🌐 Location: [ADDIS ABABA/ETHIOPIA]
+- 🔭 I’m currently working on **🌐 Building responsive and interactive web applications using HTML, CSS, and JavaScript.**
 
-## Programming Journey
-My fascination with programming began at a young age, and I've been committed to honing my skills ever since. While still in high school, I'm determined to learn and grow as a JavaScript developer.
+- 🌱 I’m currently learning **- ✨ Exploring JavaScript fundamentals - 🌐 Building responsive and interactive web applications using HTML, CSS, and JavaScript. - 💻 Contributing to open-source projects to gain practical experience and give back to the developer community**
 
-## Current Focus
-I'm currently immersed in mastering JavaScript, a versatile and powerful language fundamental to web development. My focus areas include:
-- ✨ Exploring JavaScript fundamentals
-- 🌐 Building responsive and interactive web applications using HTML, CSS, and JavaScript.
-- 💻 Contributing to open-source projects to gain practical experience and give back to the developer community.
+- 📫 How to reach me **ciert.abeni@gmail.com**
 
-## Learning Resources
-I value quality learning resources and am constantly seeking new challenges and knowledge through:
-- 📖 Online tutorials, courses, and documentation.[ZTM COURSES](https://zerotomastery.io/academy/) are my favourites
-- 📝 Hands-on coding exercises to reinforce my understanding.
-- 📌 Mentoring and guidance from experienced developers.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Future Aspirations
-While I'm still in high school, I have ambitious goals for the future:
-- 🎓 Pursue a computer science or software engineering degree in higher education.
-- 💼 Secure internships and co-op opportunities to gain practical industry experience.
-- 🌱 Continuously evolve as a developer, adapting to emerging technologies and best practices.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Let's Connect
-I'm eager to connect with fellow developers, mentors, and anyone passionate about programming and technology. Let's learn, collaborate, and inspire each other.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnzralm&show_icons=true&locale=en&layout=compact" alt="abnzralm" /></p>
 
-You can reach out to me on [Telegram](https://t.me/abnzralm) or connect on [GitHub](https://github.com/abnzralm).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abnzralm&show_icons=true&locale=en" alt="abnzralm" /></p>
 
-Let's write code, build amazing projects, and create a brighter future together! 🚀
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnzralm&" alt="abnzralm" /></p>
