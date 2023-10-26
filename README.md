@@ -30,7 +30,7 @@ While I'm still in high school, I have ambitious goals for the future:
 ## Let's Connect
 I'm eager to connect with fellow developers, mentors, and anyone passionate about programming and technology. Let's learn, collaborate, and inspire each other.
 
-You can reach out to me on [Telegram](https://t.me/abnzralm) or connect on [GitHub](https://github.com/abenezer-alemayehu).
+You can reach out to me on [Telegram](https://t.me/abnzralm) or connect on [GitHub](https://github.com/abnzralm).
 
 Let's write code, build amazing projects, and create a brighter future together! 🚀
 
